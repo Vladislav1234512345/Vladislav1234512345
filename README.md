@@ -36,7 +36,7 @@ I'm a passionate backend developer just getting started on my journey, focusing 
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email**: [tolerantniy2104@gmail.com]
-- 📱 **Telegram**: [https://t.me/Bog_nam_pomozhet]
+- 📧 **Email**: tolerantniy2104@gmail.com
+- 📱 **Telegram**: https://t.me/Bog_nam_pomozhet
 
 I’d love to collaborate and work on exciting projects together! ✨
