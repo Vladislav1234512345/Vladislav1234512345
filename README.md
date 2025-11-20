@@ -62,6 +62,6 @@ Frontend: React
 
 📫 Контакты
 
-GitHub: github.com/your‑github
+Telegram: https://t.me/Bog_nam_pomozhet
 
-Email: your@email.com
+Email: tolerantniy2104@gmail.com
