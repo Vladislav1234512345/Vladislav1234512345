@@ -17,7 +17,10 @@
 Frontend:  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-Backend:  
+Backend:
+![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+![Django](https://static.djangoproject.com/img/logos/django-logo-negative.svg)
+![Aiogram](https://avatars.githubusercontent.com/u/59030156?s=200&v=4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 Инструменты:  
