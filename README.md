@@ -1,42 +1,68 @@
-# Hey there! 👋
+Hi there 👋
 
-I'm a passionate backend developer just getting started on my journey, focusing on building high-performance and scalable applications with modern technologies. Welcome to my GitHub! 🌍
+🚀 Владислав | Full‑Stack Developer / Backend Engineer
 
-## 🚀 A Little About Me
+Привет! Я Владислав — разработчик, специализирующийся на создании веб‑приложений, Telegram‑ботов и сложных backend‑систем.
 
-- 💻 **Technologies**: Right now, I’m diving deep into **FastAPI** for building web apps and creating fast, reliable RESTful APIs.
-- ⚡ **My Experience**: Along the way, I've worked with a variety of tools and technologies to build systems that are both efficient and dependable:
-  - **Redis**: For caching and managing queues.
-  - **RabbitMQ**: Helps me manage messages between different microservices.
-  - **Celery**: Used to handle background tasks and asynchronous processes.
-  - **Git**: A must-have for version control and collaborating with other developers.
-  - **Docker**: Simplifies containerizing applications and streamlining deployments.
+🔧 Пишу на Python, работаю с Django, FastAPI, aiogram, интегрирую очереди задач и масштабируемую инфраструктуру на базе Docker, Redis, RabbitMQ, Celery.
 
-## 🛠️ The Tools I Love
+💬 Умею создавать удобные и продуманные Telegram‑боты с полноценным функционалом: обучение сотрудников, роли пользователей, тесты, экзамены, админ‑панель.
 
-| Technology     | What It Does                                   |
-|----------------|-----------------------------------------------|
-| **FastAPI**    | Powers my REST APIs and web apps               |
-| **Redis**      | Super fast in-memory data storage and caching |
-| **RabbitMQ**   | Manages message queues for async processes    |
-| **Celery**     | Handles background tasks and async processing |
-| **Docker**     | Makes it easy to containerize and deploy apps |
-| **Git**        | Keeps track of changes and enables teamwork   |
+🌱 Сейчас активно развиваюсь в архитектуре backend‑систем, асинхронных сервисах и оптимизации производительности.
 
-## 📈 What I'm Up To Right Now
 
-- Learning more about advanced backend development and architecture.
-- Building personal projects to sharpen my skills and grow my portfolio.
-- Constantly pushing myself to learn and improve!
+---
 
-## 🌟 My Projects
+🛠️ Технологии
 
-- [Dipluv](https://dipluv.ru/start): A dating service I built.
-- [topten](https://github.com/Vladislav1234512345/topten): A university ranking service.
+Backend:
 
-## 📫 Let’s Connect!
+       
 
-- 📧 **Email**: tolerantniy2104@gmail.com
-- 📱 **Telegram**: https://t.me/Bog_nam_pomozhet
+Frontend:
 
-I’d love to collaborate and work on exciting projects together! ✨
+ 
+
+Инструменты:
+
+  
+
+
+---
+
+⚡ Мои ключевые проекты
+
+📘 Telegram‑бот для обучения сотрудников — Expert Neuro
+
+Полноценная обучающая платформа внутри Telegram:
+
+Роли: администратор, проверяющий, пользователь
+
+Курсы, уроки, тесты, экзамены
+
+Статистика, автоматизация, хранение результатов
+
+Интеграции с Django / FastAPI
+
+Redis + Celery для фоновый задач, Docker для контейнеризации
+
+
+❤️ Сайт знакомств (заказная разработка)
+
+Backend: Django (регистрация, авторизация, профили, загрузка фото)
+
+Frontend: React
+
+Реализация чатов и хранения сообщений
+
+Оптимизация API, деплой и поддержка
+
+
+
+---
+
+📫 Контакты
+
+GitHub: github.com/your‑github
+
+Email: your@email.com
