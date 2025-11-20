@@ -1,4 +1,4 @@
-Hi there 👋
+Всем привет!👋
 
 🚀 Владислав | Full‑Stack Developer / Backend Engineer
 
