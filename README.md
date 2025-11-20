@@ -13,20 +13,17 @@
 
 ---
 
-🛠️ Технологии
+## 🛠️ Технологии
+Frontend:  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-Backend:
+Backend:  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-       
-
-Frontend:
-
- 
-
-Инструменты:
-
-  
-
+Инструменты:  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
