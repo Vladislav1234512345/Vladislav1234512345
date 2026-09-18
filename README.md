@@ -14,9 +14,9 @@ Backend-разработчик в **Newgate Team** (ИИ-продукты для
 
 ## Стек
 
-**Backend:** Python, FastAPI, Django, aiogram, SQLAlchemy, Pydantic, asyncio
-**Данные и инфраструктура:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Nginx, Git
-**AI / LLM:** Anthropic Claude API, OpenAI API, tool calling, prompt engineering
+- **Backend:** Python, FastAPI, Django, aiogram, SQLAlchemy, Pydantic, asyncio
+- **Данные и инфраструктура:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Nginx, Git
+- **AI / LLM:** Anthropic Claude API, OpenAI API, tool calling, prompt engineering
 
 ## Открытые проекты
 
