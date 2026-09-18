@@ -1,67 +1,32 @@
-Всем привет!👋
+# Привет! Я Владислав 👋
 
-🚀 Владислав | Full‑Stack Developer / Backend Engineer
+**Python Backend & AI Engineer** — строю бэкенды на FastAPI/PostgreSQL и довожу LLM-фичи до продакшена, а не до демо.
 
-Привет! Я Владислав — разработчик, специализирующийся на создании веб‑приложений, Telegram‑ботов и сложных backend‑систем.
+## Чем занимаюсь сейчас
 
-🔧 Пишу на Python, работаю с Django, FastAPI, aiogram, интегрирую очереди задач и масштабируемую инфраструктуру на базе Docker, Redis, RabbitMQ, Celery.
+Backend-разработчик в **Newgate Team** (ИИ-продукты для бизнеса).
 
-💬 Умею создавать удобные и продуманные Telegram‑боты с полноценным функционалом: обучение сотрудников, роли пользователей, тесты, экзамены, админ‑панель.
+- **AdPayer** — платёжная платформа (FastAPI + PostgreSQL + Redis): интеграция с платёжными провайдерами, идемпотентная обработка вебхуков, статусы транзакций, фоновые задачи. Код закрыт (коммерческий проект), но с удовольствием расскажу об архитектуре на собеседовании.
+- **brainEd** — Telegram-бот для обучения сотрудников с LLM внутри (Claude / GPT-4o): генерация тестов, проверка ответов, роли пользователей, админ-панель.
+- **Cindra** — ИИ-ассистент для бизнес-задач на базе LLM: интеграция с API моделей, tool calling, работа с контекстом.
 
-🌱 Сейчас активно развиваюсь в архитектуре backend‑систем, асинхронных сервисах и оптимизации производительности.
+Ежедневно работаю с Claude Code и LLM API как с инструментами разработки, а не как с игрушкой.
 
+## Стек
 
----
+**Backend:** Python, FastAPI, Django, aiogram, SQLAlchemy, Pydantic, asyncio
+**Данные и инфраструктура:** PostgreSQL, Redis, RabbitMQ, Celery, Docker, Nginx, Git
+**AI / LLM:** Anthropic Claude API, OpenAI API, tool calling, prompt engineering
 
-## 🛠️ Технологии
-Frontend:  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+## Открытые проекты
 
-Backend:
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
-![Django](https://static.djangoproject.com/img/logos/django-logo-negative.svg)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+- [Expert-Neuro-education-Telegram-bot](https://github.com/Vladislav1234512345/Expert-Neuro-education-Telegram-bot) — бот обучения сотрудников: роли, тесты, экзамены, админка.
+- [ExpertNeuro-schedule-project-backend](https://github.com/Vladislav1234512345/ExpertNeuro-schedule-project-backend) — бэкенд системы расписания (Django/DRF).
+- [plastic-quality-ai](https://github.com/Vladislav1234512345/plastic-quality-ai) — контроль качества пластика с помощью ML.
 
-Инструменты:  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+## Контакты
 
----
+- Telegram: [@VladislavSs_Ss](https://t.me/VladislavSs_Ss)
+- Email: tolerantniy2104@gmail.com
 
-⚡ Мои ключевые проекты
-
-📘 Telegram‑бот для обучения сотрудников — Expert Neuro
-
-Полноценная обучающая платформа внутри Telegram:
-
-Роли: администратор, проверяющий, пользователь
-
-Курсы, уроки, тесты, экзамены
-
-Статистика, автоматизация, хранение результатов
-
-Интеграции с Django / FastAPI
-
-Redis + Celery для фоновый задач, Docker для контейнеризации
-
-
-❤️ Сайт знакомств (заказная разработка)
-
-Backend: Django (регистрация, авторизация, профили, загрузка фото)
-
-Frontend: React
-
-Реализация чатов и хранения сообщений
-
-Оптимизация API, деплой и поддержка
-
-
-
----
-
-📫 Контакты
-
-Telegram: https://t.me/Bog_nam_pomozhet
-
-Email: tolerantniy2104@gmail.com
+Открыт к предложениям: backend / AI-integration, офис (Самара) или удалённо.
